@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "ShoppingApp.Accomodation.EventProcessor": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "NETCORE_ENVIRONMENT": "development"
+      }
+    }
+  }
+}
